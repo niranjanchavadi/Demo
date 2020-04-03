@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.censusanalyser.StateCensusAnalyserTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2020-04-02T14:46:13" hostname="DESKTOP-NK2QSNJ" time="0.862">
+  <properties/>
+  <testcase name="givenIndianCensusData_WhenSortedOnState_ShouldReturnSortedList" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.318"/>
+  <testcase name="givenIndianStateCensusData_WhenSortedStateAreaList_ShouldReturnSortedList_2" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.067"/>
+  <testcase name="givenStateCensusAnalyserFile_WhenIncorrectHeader_ReturnCustomException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.045"/>
+  <testcase name="givenIndianStateCencusData_WhenSortedOnPopulation_ShouldReturnSortedList" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.042"/>
+  <testcase name="givenIndianStateCensusData_WhenSortedOnDensityPerSquareKM_ShouldReturnSortedList_2" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.03"/>
+  <testcase name="givenIndianStateCensusData_WhenReturnsNull_ShouldThrowException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.003"/>
+  <testcase name="givenIndianStateCodeData_WhenNotSortedOnState_ShouldNotReturnSortedList" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.042"/>
+  <testcase name="givenStateCensusAnalyserFile_WhenIncorrectDelimiter_ReturnCustomException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.001"/>
+  <testcase name="givenIndianStateCodeData_WhenSortedOnState_ShouldReturnSortedList" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.03"/>
+  <testcase name="givenStateCodeCsvFile_WhenImproperFileName_ReturnsException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.002"/>
+  <testcase name="givenStateCodeCsvFile_WhenIncorrectHeader_ReturnCustomException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.002"/>
+  <testcase name="givenIndianStateCensusData_WhenSortedStateAreaList_ShouldThrowException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.0"/>
+  <testcase name="givenIndianCensusData_WhenSortedOnState_ShouldReturnSortedList_2" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.036"/>
+  <testcase name="givenIndianStateCensusData_WhenSortedOnDensityPerSquareKM_ShouldReturnSortedList" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.029"/>
+  <testcase name="givenIndianStateCensusData_WhenSortedOnDensityPerSquareKM_ShouldThrowException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.0"/>
+  <testcase name="givenIndianCensusData_WhenSortedImproperlyOnState_ShouldNotReturnSortedList" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.033"/>
+  <testcase name="givenStateCodeCsvFile_WhenIncorrectDelimiter_ReturnCustomException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.002"/>
+  <testcase name="givenStateCensusAnalyserFile_WhenIncorrectType_ReturnCustomException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.001"/>
+  <testcase name="givenStateCodeCsvFile_WhenIncorrectType_ReturnCustomException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.0"/>
+  <testcase name="givenIndianStateCensusData_WhenSortedStateAreaList_ShouldReturnSortedList" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.029"/>
+  <testcase name="givenStateCodeCsvFile_WhenTrue_NumberOfRecordShouldMatch" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.029"/>
+  <testcase name="givenIndianStateCencusData_WhenSortedOnPopulation_ShouldReturnSortedList_2" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.023"/>
+  <testcase name="givenStateCensusAnalyserFile_WhenImproperFileName_ReturnsException" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.022"/>
+  <testcase name="givenStateCensusAnalyserFile_WhenTrue_NumberOfRecordShouldMatch" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.024"/>
+  <testcase name="givenIndianStateCodeData_WhenSortedOnState_ShouldReturnSortedList_2" classname="com.censusanalyser.StateCensusAnalyserTest" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
